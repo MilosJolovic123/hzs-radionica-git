@@ -2,7 +2,9 @@ import React from 'react'
 
 const FirstComponent = () => {
   return (
-    <div>Ovde cu da napravim konflikt i ova linija koda nece biti ista!</div>
+    <div>
+      <p>ovo je p tag</p>
+    </div>
   )
 }
 
