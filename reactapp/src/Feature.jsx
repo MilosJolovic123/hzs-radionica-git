@@ -7,7 +7,7 @@ const Feature = () => {
         <p>ovde i dalje radim na featuru</p>
         <p>nastavlja da radim na featuru</p>
         <h1>ovo je h1 tag</h1>
-        <p>ovo je konflikt</p>
+        <h3>ovo je konflikt</h3>
     </div>
   )
 }
