@@ -3,8 +3,9 @@ import React from 'react'
 const FirstComponent = () => {
   return (
     <div>
-      <p>ovo je p tag</p>
+      <h1>Ovo je h1 tag i drugaciji je od p taga!</h1>
     </div>
+
   )
 }
 
